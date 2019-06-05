@@ -8,9 +8,3 @@
 05-31 16:46:33.796 1577-3181/? D/scservice_jni: aucComRecvBuf=[HEX   020] 55 
     aa 00 00 0c 41 6e 00 08 03 27 00 00 00 02 69 86 
     e2 cc 33 
-05-31 16:46:33.796 1577-3181/? D/scservice_jni: OK_COMMS_LRC
-05-31 16:46:33.796 1577-3181/? D/scservice_jni: AnalyseCom recv comdata...
-05-31 16:46:33.796 1577-3181/? D/scservice_jni: tmp_CallBackCommandID=807
-05-31 16:46:33.796 1577-3181/? D/scservice_jni: Reply package Tpye :41
-05-31 16:46:33.797 1577-3181/? D/scservice_jni: AnalyseComResult()_pucOutData=[HEX   006] 00 
-    00 00 02 69 86 
