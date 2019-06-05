@@ -1,10 +1,10 @@
-05-31 16:46:33.790 1577-3181/? D/scservice_jni: before send falsh data len=0
-05-31 16:46:33.790 1577-3181/? D/scservice_jni: before send falsh data len.write=30
-05-31 16:46:33.790 1577-3181/? D/scservice_jni: ------------------------END_OF_COMMS_RS232_Send()_usResult=0x00------------------------
-05-31 16:46:33.790 1577-3181/? D/scservice_jni: set timer to 120s
-05-31 16:46:33.796 1577-3181/? D/scservice_jni: recv common data complete... recvDataLen=8,revLen=20
-05-31 16:46:33.796 1577-3181/? D/scservice_jni: ��ʼ��������
-05-31 16:46:33.796 1577-3181/? D/scservice_jni: �������
-05-31 16:46:33.796 1577-3181/? D/scservice_jni: aucComRecvBuf=[HEX   020] 55 
-    aa 00 00 0c 41 6e 00 08 03 27 00 00 00 02 69 86 
-    e2 cc 33 
+05-31 16:46:33.824 1577-3161/? D/scservice_jni: before send falsh data len=0
+05-31 16:46:33.824 1577-3161/? D/scservice_jni: before send falsh data len.write=22
+05-31 16:46:33.824 1577-3161/? D/scservice_jni: ------------------------END_OF_COMMS_RS232_Send()_usResult=0x00------------------------
+05-31 16:46:33.824 1577-3161/? D/scservice_jni: set timer to 120s
+05-31 16:46:33.828 1577-3161/? D/scservice_jni: recv common data complete... recvDataLen=8,revLen=20
+05-31 16:46:33.828 1577-3161/? D/scservice_jni: ��ʼ��������
+05-31 16:46:33.828 1577-3161/? D/scservice_jni: �������
+05-31 16:46:33.829 1577-3161/? D/scservice_jni: aucComRecvBuf=[HEX   020] 55 
+    aa 00 00 0c 41 70 00 08 03 27 00 00 00 02 90 00 
+    83 cc 33 
